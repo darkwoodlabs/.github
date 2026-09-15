@@ -14,7 +14,7 @@
 
 Eclipser Labs is a small engineering labs working at the intersection of **tooling**, **infrastructure**, **AI engineering**, and **applied research**.
 
-We build practical software — libraries, services, and experiments — and maintain them in the open. Each project is scoped to do one thing well, documented on its own terms, and versioned in its own repository. This profile is the front door; the details live with the code.
+We build practical software libraries, services, and experiments and maintain them in the open. Each project is scoped to do one thing well, documented on its own terms, and versioned in its own repository. This profile is the front door; the details live with the code.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
