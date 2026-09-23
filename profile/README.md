@@ -1,9 +1,12 @@
 <p align="center">
+  <h1 align="center">Eclipser Labs</h1>
+</p>
+
+<p align="center">
   <img src="assets/cover.png" width="100%" alt="Eclipser Labs"/>
 </p>
 
 <p align="center">
-  <h1 align="center">Eclipser Labs</h1>
   <p align="center"><strong>Engineering tools, infrastructure, and applied research.</strong></p>
   <p align="center">An independent labs organization building open-source software, one focused repository at a time.</p>
 </p>
