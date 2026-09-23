@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">Eclipser Labs</h1>
+  <h1 align="center">Darkwood Labs</h1>
 </p>
 
 <p align="center">
-  <img src="assets/cover.png" width="100%" alt="Eclipser Labs"/>
+  <img src="assets/cover.png" width="100%" alt="Darkwood Labs"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About
 
-Eclipser Labs is a small engineering labs working at the intersection of **tooling**, **infrastructure**, **AI engineering**, and **applied research**.
+Darkwood Labs is a small engineering labs working at the intersection of **tooling**, **infrastructure**, **AI engineering**, and **applied research**.
 
 We build practical software libraries, services, and experiments and maintain them in the open. Each project is scoped to do one thing well, documented on its own terms, and versioned in its own repository. This profile is the front door; the details live with the code.
 
@@ -26,10 +26,10 @@ We build practical software libraries, services, and experiments and maintain th
 
 ## Explore
 
-Everything we maintain is public. Start from [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — each one ships its own README with background, setup, and usage.
+Everything we maintain is public. Start from [**Repositories**](https://github.com/orgs/darkwoodlabs/repositories) — each one ships its own README with background, setup, and usage.
 
 ```bash
-git clone https://github.com/eclipserlabs/<repo>.git
+git clone https://github.com/darkwoodlabs/<repo>.git
 ```
 
 ## How we work
