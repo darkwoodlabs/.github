@@ -1,41 +1,17 @@
-# Eclipser Labs
-
 <p align="center">
   <img src="assets/cover.png" width="100%" alt="Eclipser Labs"/>
 </p>
 
-> **Engineering tools, infrastructure, and applied research.**
+# Eclipser Labs
 
-An independent labs organization building open-source software, one focused repository at a time.
+**Independent software engineering and research.**
 
----
+We explore ideas, build software, and experiment with different approaches to engineering. Our work includes developer tools, systems software, and small research projects.
 
-## About
+Projects are developed in the open. Some become maintained tools; others remain experiments, with their findings and limitations documented.
 
-Eclipser Labs is a small engineering labs working at the intersection of **tooling**, **infrastructure**, **AI engineering**, and **applied research**.
+## Projects
 
-We build practical software libraries, services, and experiments and maintain them in the open. Each project is scoped to do one thing well, documented on its own terms, and versioned in its own repository. This profile is the front door; the details live with the code.
+Each repository has its own scope, documentation, and development status.
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| **Tools** | **Infrastructure** | **AI engineering** | **Research** |
-| CLIs, libraries, and runtimes that make development faster and safer | Durable building blocks for running reliable systems | Agent tooling, model infrastructure, and guardrails for automated work | Applied prototypes and honest write-ups that transfer to production |
-
-## Explore
-
-Everything we maintain is public. Start from [**Repositories**](https://github.com/orgs/eclipserlabs/repositories) — each one ships its own README with background, setup, and usage.
-
-```bash
-git clone https://github.com/eclipserlabs/<repo>.git
-```
-
-## How we work
-
-- Small repositories with a clear scope and explicit non-goals
-- Documentation written alongside code, not after it
-- Changes discussed in issues, reviewed in pull requests
-- Measured where it matters, archived honestly when a bet closes
-
----
-
-> Found a bug, want a feature, or curious about a direction? Open an issue in the relevant repository. For substantial changes, please start with an issue so we can agree on scope before you write code.
+[Explore our repositories](https://github.com/orgs/eclipserlabs/repositories)
