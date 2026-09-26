@@ -2,7 +2,7 @@
   <img src="assets/cover.png" width="100%" alt="Eclipser Labs"/>
 </p>
 
-# Eclipser Labs
+# Sheringfords Lab
 
 **Independent software engineering and research.**
 
